@@ -1,0 +1,14 @@
+# space.yml
+title: Smart Customer Support
+emoji: 🤖
+sdk: docker
+app_file: Dockerfile
+hardware: cpu
+description: |
+  A demo Space that showcases a smart-customer-support OpenEnv environment.
+  It includes three tasks (email classification, response generation, full ticket resolution)
+  with programmatic grading and a reward system.
+tags:
+  - openenv
+  - customer-support
+  - hackathon
